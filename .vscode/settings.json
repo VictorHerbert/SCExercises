@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.sva": "systemverilog",
+        "*.tda": "systemverilog",
+        "functional": "cpp"
+    }
+}
